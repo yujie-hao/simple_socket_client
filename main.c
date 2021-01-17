@@ -5,7 +5,7 @@
 #include <string.h>
 
 int main() {
-	printf("client: Simple Socket Clilent\n");
+	printf("client: Simple Socket Client\n");
 
 	int sock = 0, valread;
 	struct sockaddr_in serv_addr;
